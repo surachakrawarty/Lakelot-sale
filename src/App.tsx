@@ -37,6 +37,16 @@ const galleryImages = [
     id: 5,
     src: "/vessel-homes.jpg",
     alt: "Vessel homes view"
+  },
+  {
+    id: 6,
+    src: "/lake-activitie.jpg",
+    alt: "Lake Activities View"
+  },
+  {
+    id: 7,
+    src: "/mini-golf.jpg",
+    alt: "Mini Golf Court"
   }
 ];
 
